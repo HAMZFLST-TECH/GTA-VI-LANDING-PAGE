@@ -184,7 +184,7 @@ Scroll-triggered cinematic transitions
 Video background optimization
 
 ## Website
-[Live Website](gta6-landing-hamzflst.netlify.app)
+<a href="gta6-landing-hamzflst.netlify.app" target="_blank">Live Website</a>
 
 ## Component modularization
 
