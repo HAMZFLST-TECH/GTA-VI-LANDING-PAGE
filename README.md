@@ -78,15 +78,15 @@ Designed & developed by **HAMZFLST.TECH**.
 ## 📂 Project Structure
 
 
-gta6-landing-page/
-│
-├── index.html
-├── style.css (if separated)
-├── script.js
-└── assets/
-├── images/
-└── media/
+gta6-landing-page
 
+── index.html
+
+── style.css (if separated)
+
+── script.js
+
+── assets/
 
 ---
 
@@ -97,12 +97,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/gta6-landing-page.git
 cd gta6-landing-page
+```
+
+## Description
 
 Open index.html in your browser.
 
 No build tools required.
 
-🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 Advanced UI/UX thinking
 
@@ -116,7 +119,7 @@ Tailwind utility-first workflow
 
 Animation psychology in web design
 
-🔥 Why This Project Matters
+## 🔥 Why This Project Matters
 
 In today’s digital landscape:
 
@@ -130,7 +133,7 @@ Performance affects retention
 
 This landing page is built to hook within seconds and guide users visually through structured storytelling.
 
-📌 Disclaimer
+## 📌 Disclaimer
 
 This is a fan-made frontend recreation created strictly for educational and portfolio purposes.
 
@@ -138,9 +141,10 @@ All trademarks, intellectual property, and brand references related to Grand The
 
 No commercial use intended.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 HAMZFLST.TECH
+
 Full-Stack Developer & Visual Architect
 
 Specializing in:
@@ -155,11 +159,11 @@ Performance-Focused Frontend
 
 Digital Experience Engineering
 
-🌐 Connect
+## 🌐 Connect
 
 If you're interested in cinematic landing pages, animation-heavy UI, or high-performance frontend systems — feel free to connect and collaborate.
 
-⭐ Support
+## ⭐ Support
 
 If you found this project inspiring or useful:
 
@@ -171,7 +175,7 @@ If you found this project inspiring or useful:
 
 💬 Provide feedback
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Advanced GSAP timeline animations
 
@@ -179,9 +183,10 @@ Scroll-triggered cinematic transitions
 
 Video background optimization
 
-Deployment on Vercel / Netlify
+## Website
+[gta6-landing-hamzflst.netlify.app](URL)
 
-Component modularization
+## Component modularization
 
 Built with precision.
 Designed with intent.
