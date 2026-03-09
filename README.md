@@ -82,7 +82,7 @@ gta6-landing-page
 
 ── index.html
 
-── style.css (if separated)
+── style.css 
 
 ── script.js
 
