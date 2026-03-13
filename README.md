@@ -95,7 +95,7 @@ gta6-landing-page
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gta6-landing-page.git
+git clone https://github.com/HAMZFLST-TECH/GTA-VI-LANDING-PAGE.git
 cd gta6-landing-page
 ```
 
